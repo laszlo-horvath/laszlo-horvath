@@ -1,5 +1,5 @@
 <h1 align="center"><img src="assets/wave.gif" width="20"> Hi there, I'm László Horváth</h1>
-<h3 align="center">A full-stack javascript developer passionate about UI from Budapest, Hungary.</h3>
+<p align="center">A full-stack javascript developer passionate about UI from Budapest, Hungary.</p>
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp;
@@ -22,11 +22,7 @@
   <img align="center"  width="350" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=laszlo-horvath&include_all_commits=true&show_icons=true&count_private=true&locale=en&theme=algolia&hide_border=true&border_radius=5" alt="laszlo-horvath" />
 </p>
 
-<br />
-
 <h2 align="center"><i>Stay <b>awesome</b>!</i> 🤘</h2>
-
-<br />
 
 <p align="center">
 <a href="https://codepen.io/horvath-laszlo" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" alt="horvath-laszlo" height="40" width="40" /></a>
@@ -37,7 +33,5 @@
 &nbsp;
 <a href="https://stackoverflow.com/users/787625" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="787625" height="40" width="40" /></a>
 </p>
-
-<br />
 
 <p align="center"><i><a href="mailto:horvathlaszlo88@gmail.com">László Horváth</a> © 2022</i></p>
