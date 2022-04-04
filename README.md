@@ -16,9 +16,9 @@
 </p>
 <br />
 
-<center>
+<p align="center">
   <img align="center" src="assets/coder.gif" width="450" />
-</center>
+</p>
 
 <br />
 
