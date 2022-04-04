@@ -18,8 +18,8 @@
 </p>
 
 <p align="center">
-  <img align="center" width="350" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=laszlo-horvath&layout=compact&show_icons=true&locale=en&theme=algolia&hide_border=true&border_radius=5&exclude_repo=awesome-less-mixins" alt="laszlo-horvath" />
-  <img align="center"  width="350" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=laszlo-horvath&include_all_commits=true&show_icons=true&count_private=true&locale=en&theme=algolia&hide_border=true&border_radius=5" alt="laszlo-horvath" />
+  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=laszlo-horvath&layout=compact&show_icons=true&locale=en&theme=algolia&hide_border=true&border_radius=5&exclude_repo=awesome-less-mixins" alt="laszlo-horvath" />
+  <img align="center"  width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=laszlo-horvath&include_all_commits=true&show_icons=true&count_private=true&locale=en&theme=algolia&hide_border=true&border_radius=5" alt="laszlo-horvath" />
 </p>
 
 <h2 align="center"><i>Stay <b>awesome</b>!</i> 🤘</h2>
