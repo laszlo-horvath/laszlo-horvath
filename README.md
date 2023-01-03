@@ -34,4 +34,4 @@
 <a href="https://stackoverflow.com/users/787625" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="787625" height="40" width="40" /></a>
 </p>
 
-<p align="center"><i><a href="mailto:horvathlaszlo88@gmail.com">László Horváth</a> © 2022</i></p>
+<p align="center"><i><a href="mailto:horvathlaszlo88@gmail.com">László Horváth</a> © 2023</i></p>
