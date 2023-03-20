@@ -31,6 +31,9 @@
 <a href="https://linkedin.com/in/horvath-laszlo" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="horvath-laszlo" height="40" width="40" /></a>
 &nbsp;
 &nbsp;
+<a href="https://twitter.com/LaslowHorvath" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="horvath-laszlo" height="40" width="40" /></a>
+&nbsp;
+&nbsp;
 <a href="https://stackoverflow.com/users/787625" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="787625" height="40" width="40" /></a>
 </p>
 
